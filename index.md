@@ -12,5 +12,5 @@ I am Rohit Kumar, a web development student at Humber College. After a career as
 Visit my [Projects Page](projects.md) to see my work!
 
 ## Contact
-[Get in touch](contact.md)
+[Get in touch](contactme.md)
 
