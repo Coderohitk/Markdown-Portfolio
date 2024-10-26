@@ -6,7 +6,7 @@
 ## 2. [Database Design and Development](https://github.com/Coderohitk/http-5126/tree/main/Week%205)
 - This project explores Sql that runs on databaseof petstores
 ## 3. [Front-End Web Development](https://github.com/crazycoderin/ADMIN-PORTAL)
-- A project aimed at creating interactive web pages using JavaScript.
+- A project aimed at creating CRUD interactive web pages using React.js.
 
 ### Back to [Home Page](index.md)
 ### [Contact Me](contactme.md)
